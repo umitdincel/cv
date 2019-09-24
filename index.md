@@ -5,12 +5,11 @@ title: Ümit Dincel's CV
 # Ümit Dincel
 Software Developer
 
-| __E-Mail__   | [dincelumit@gmail.com](mailto:dincelumit@gmail.com)              | 
-| __Website__  | [umitdincel.com](http://umitdincel.com/)                         |
-| __LinkedIn__ | [linkedin.com/in/umitdincel](https://linkedin.com/in/umitdincel) |
-| __Twitter__  | [twitter.com/umitdncel](https://twitter.com/umitdncel)         |
+## Contact
 
-
+- dincelumit[at]gmail.com
+- [linkedin.com/in/umitdincel](https://linkedin.com/in/umitdincel)
+- [twitter.com/umitdncel](https://twitter.com/umitdncel)
 
 ## TLDR;
 
@@ -41,8 +40,8 @@ __Karadeniz Technical University, Computer Engineering__
 `Sep 2016 - now`
 __Adphorus__, Istanbul
 _Software Developer_
-###### Stack: Python / Tornado / Javascript / React / webpack / jenkins / docker 
 
+- __Stack: Python / Tornado / Javascript / React / webpack / jenkins / docker__
 - Built SaaS platform for facebook ads management
 - Built a file processor to process small and/or big files which are submitted by customers
 - Worked on client app (React) for some features
@@ -51,8 +50,8 @@ _Software Developer_
 `Sep 2015 - Sep 2016`
 __Volt__, Istanbul
 _Backend Developer_
-###### Stack: Python / Javascript/ Django / Html & CSS / jenkins
 
+- __Stack: Python / Javascript/ Django / Html & CSS / jenkins__
 - Volt was ride sharing mobile application on Android and IOS
 - Built a web API
 - Built a web SPA for the company
@@ -62,8 +61,8 @@ _Backend Developer_
 `Jun 2014 - Apr 2015`
 __Unicrow__, Trabzon
 _Backend Developer_
-###### Stack: PHP / Python / Javascript / Wordpress / Django / Html & CSS & Javascript
 
+- __Stack: PHP / Python / Javascript / Wordpress / Django / Html & CSS & Javascript__
 - Built server applications with Python(Django), Php(Codeigniter) and node.js
 - Worked on client applications with Javascript(Angular), CSS
 - Built wordpress sites
