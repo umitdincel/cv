@@ -23,7 +23,7 @@ Software Developer
 
 Based in İstanbul. Working on web applications and automations.
 
-### Specialized in
+## Specialized in
 
 - Building web applications; backend and frontend on major cloud platforms
 - Automating processes
