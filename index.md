@@ -1,91 +1,69 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ümit Dincel's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ümit Dincel
+Software Developer
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+| __E-Mail__   | [dincelumit@gmail.com](mailto:dincelumit@gmail.com)              | 
+| __Website__  | [umitdincel.com](http://umitdincel.com/)                         |
+| __LinkedIn__ | [linkedin.com/in/umitdincel](https://linkedin.com/in/umitdincel) |
+| __Twitter__  | [twitter.com/umitdncel](https://twitter.com/umitdncel)         |
 
+
+
+## TLDR;
+
+- 6+ years in software dev
+- Knows Facebook Marketing/Ad Tech Domain
+- Loves & Contributes to side-projects
+- Enjoys spending time in nature and sea
+- See below for code examples and open source personal projects
 
 ## Currently
 
-Standing on the shoulders of giants
+Based in İstanbul. Working on web applications and automations.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Building web applications; backend and frontend on major cloud platforms
+- Automating processes
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2010-`
+__Karadeniz Technical University, Computer Engineering__
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Sep 2016 - now`
+__Adphorus__, Istanbul
+_Software Developer_
+###### Stack: Python / Tornado / Javascript / React / webpack / jenkins / docker 
 
-- Warden
-- Minted coins
+- Built SaaS platform for facebook ads management
+- Built a file processor to process small and/or big files which are submitted by customers
+- Worked on client app (React) for some features
+- Built an image processing project which handles over million request to process
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Sep 2015 - Sep 2016`
+__Volt__, Istanbul
+_Backend Developer_
+###### Stack: Python / Javascript/ Django / Html & CSS / jenkins
 
+- Volt was ride sharing mobile application on Android and IOS
+- Built a web API
+- Built a web SPA for the company
+- Built a web application for tracing rides
+- Worked on both Google and AWS cloud platforms
 
+`Jun 2014 - Apr 2015`
+__Unicrow__, Trabzon
+_Backend Developer_
+###### Stack: PHP / Python / Javascript / Wordpress / Django / Html & CSS & Javascript
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Built server applications with Python(Django), Php(Codeigniter) and node.js
+- Worked on client applications with Javascript(Angular), CSS
+- Built wordpress sites
