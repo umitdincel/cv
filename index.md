@@ -17,7 +17,6 @@ Software Developer
 - Knows Facebook Marketing/Ad Tech Domain
 - Loves & Contributes to side-projects
 - Enjoys spending time in nature and sea
-- See below for code examples and open source personal projects
 
 ## Currently
 
