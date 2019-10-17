@@ -44,7 +44,7 @@ _Software Developer_
 - Built SaaS platform for facebook ads management
 - Built a file processor to process small and/or big files which are submitted by customers
 - Worked on client app (React) for some features
-- Built an image processing project which handles over million request to process
+- Built an image processing project which handles over a million requests to process
 
 `Sep 2015 - Sep 2016`
 __Volt__, Istanbul
