@@ -36,15 +36,23 @@ __Karadeniz Technical University, Computer Engineering__
 
 ## Occupation
 
-`Sep 2016 - now`
+`Sep 2016 - Apr 2020`
 __Adphorus__, Istanbul
-_Software Developer_
+_Software Engineer_
 
 - __Stack: Python / Tornado / Javascript / React / webpack / jenkins / docker__
 - Built SaaS platform for facebook ads management
 - Built a file processor to process small and/or big files which are submitted by customers
 - Worked on client app (React) for some features
 - Built an image processing project which handles over a million requests to process
+
+`Apr 2015 - Jun 2019`
+__Polen Digital__, Istanbul
+_Full Stack Engineer_
+
+- __Stack: Python / PHP / Javascript / Html & CSS__
+- Polen digital is a web development agency
+- Built 10+ responsive web applications
 
 `Sep 2015 - Sep 2016`
 __Volt__, Istanbul
