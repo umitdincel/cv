@@ -36,11 +36,21 @@ __Karadeniz Technical University, Computer Engineering__
 
 ## Occupation
 
+`Apr 2020 - Currently`
+__Midas__, Istanbul
+_Software Engineer_
+
+- __Stack: Python / Django / Javascript / React / Docker / AWS__
+- Built commission-free investing app
+- Built an client app(React) for backoffice
+- Worked on AWS cloud platforms
+
+
 `Sep 2016 - Apr 2020`
 __Adphorus__, Istanbul
 _Software Engineer_
 
-- __Stack: Python / Tornado / Javascript / React / webpack / jenkins / docker__
+- __Stack: Python / Django / Flask / Tornado / Javascript / React / Webpack / Docker / Kubernetes / Jenkins / Google Cloud__
 - Built SaaS platform for facebook ads management
 - Built a file processor to process small and/or big files which are submitted by customers
 - Worked on client app (React) for some features
@@ -58,7 +68,7 @@ _Full Stack Engineer_
 __Volt__, Istanbul
 _Backend Developer_
 
-- __Stack: Python / Javascript/ Django / Html & CSS / jenkins__
+- __Stack: Python / Javascript/ Django / Firebase / Html & CSS / Jenkins__
 - Volt was ride sharing mobile application on Android and IOS
 - Built a web API
 - Built a web SPA for the company
