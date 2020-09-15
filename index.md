@@ -14,7 +14,7 @@ Software Developer
 ## TLDR;
 
 - 6+ years in software dev
-- Knows Facebook Marketing/Ad Tech Domain
+- Knows Finance and Facebook Marketing/Ad Tech Domain
 - Loves & Contributes to side-projects
 - Enjoys spending time in nature and sea
 
